@@ -1,2 +1,2 @@
-# Solidity_Daily_Practice
- My daily practice of solidity smart contracts, python and javaScript
+# Daily_Coding_Practice
+ My daily practice of solidity, python and javaScript
